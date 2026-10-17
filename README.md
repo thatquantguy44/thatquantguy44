@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://thatquantguy44.github.io"><img alt="Blog and website" src="https://img.shields.io/badge/BLOG-read%20my%20notes-06cdd5?style=for-the-badge&labelColor=30343b" /></a>
   <a href="https://github.com/thatquantguy44"><img alt="GitHub" src="https://img.shields.io/badge/GITHUB-thatquantguy44-30343b?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img alt="CFA charterholder, 2021" src="https://img.shields.io/badge/CFA-CHARTERHOLDER%20·%202021-087e8b?style=for-the-badge" />
   <img alt="Texas A&M University" src="https://img.shields.io/badge/TEXAS%20A%26M-FINANCIAL%20ECONOMICS-7b1e3a?style=for-the-badge" />
