@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/thatquantguy44/Computational_Finance"><img alt="Computational finance" src="https://img.shields.io/badge/◈%20QUANTITATIVE%20FINANCE-simulations%20%26%20pricing-9257d3?style=flat-square" /></a>
-  <a href="https://github.com/thatquantguy44/Time-Series-Analysis-and-Weather-Forecast-"><img alt="Time series analysis" src="https://img.shields.io/badge/⌁%20TIME%20SERIES-analysis%20%26%20forecasting-347bb8?style=flat-square" /></a>
+  <a href="https://github.com/thatquantguy44/QuantMeridian-Core"><img alt="QuantMeridian Core: macro intelligence terminal" src="https://img.shields.io/badge/◈%20QUANTMERIDIAN%20CORE-macro%20intelligence-9257d3?style=flat-square" /></a>
+  <a href="https://github.com/thatquantguy44/QuantSmith"><img alt="QuantSmith: agentic quant research SDK" src="https://img.shields.io/badge/⚙%20QUANTSMITH-agentic%20quant%20research-347bb8?style=flat-square" /></a>
+  <a href="https://github.com/thatquantguy44/QR-Haven"><img alt="QR Haven: quantitative research infrastructure" src="https://img.shields.io/badge/⌁%20QR%20HAVEN-systematic%20research-2eaa8c?style=flat-square" /></a>
 </p>
 
 <hr />
@@ -36,13 +37,13 @@ I build quantitative models, data pipelines, and dashboards that help turn compl
 - **Decision tools:** dashboards, automated reporting, and reusable analytical workflows
 - **Investing and corporate finance:** practical and theoretical perspectives on markets and businesses
 
-## 🔎 Public projects
+## 🌟 Featured projects
 
-| Repository | Focus |
+| Project | What it is |
 | --- | --- |
-| [Computational Finance](https://github.com/thatquantguy44/Computational_Finance) | Simulation methods, stochastic processes, and option and fixed-income pricing topics. |
-| [Time-Series Analysis & Weather Forecast](https://github.com/thatquantguy44/Time-Series-Analysis-and-Weather-Forecast-) | Python time-series analysis and SARIMAX forecasting. |
-| [ARIMA Temperature Forecasting](https://github.com/thatquantguy44/ARIMA-Temperature_Forecasting) | Temperature forecasting with ARIMA in Python. |
+| [QuantMeridian Core](https://github.com/thatquantguy44/QuantMeridian-Core) | A macro and market intelligence terminal for rates, curves, inflation, credit, regimes, volatility, news, and an AI copilot over macro data. |
+| [QuantSmith](https://github.com/thatquantguy44/QuantSmith) | A spec-driven, agentic SDK for building reproducible quant research and models with traceable specs and leakage-aware workflows. |
+| [QR Haven](https://github.com/thatquantguy44/QR-Haven) | Quant research infrastructure with transaction-cost models, alpha signals, walk-forward backtesting, portfolio optimization, and regime detection. |
 
 ## 🎓 Background
 
