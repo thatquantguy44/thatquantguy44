@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Personal profile banner</title>
+  <desc id="desc">Dark navy banner for QuantGuy, with finance and data science labels and abstract data lines.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080e1e"/><stop offset="1" stop-color="#10243a"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" x2="1">
+      <stop stop-color="#11d9df"/><stop offset="1" stop-color="#4c83db"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" x2="1">
+      <stop stop-color="#854ee8"/><stop offset="1" stop-color="#e25dbd"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <path d="M0 246 C180 195 245 248 396 187 S636 212 770 147 S997 186 1200 86" fill="none" stroke="#172f4b" stroke-width="2"/>
+  <path d="M560 233 L640 216 696 228 765 190 826 207 890 161 948 179 1014 133 1069 149 1135 111 1200 123" fill="none" stroke="url(#cyan)" stroke-width="3" opacity=".9"/>
+  <path d="M560 260 L625 244 682 252 749 224 807 232 869 204 931 213 989 181 1051 197 1110 165 1200 171" fill="none" stroke="url(#violet)" stroke-width="3" opacity=".9"/>
+  <text x="56" y="60" fill="#37dce0" font-family="monospace" font-size="18" letter-spacing="3">FINANCE × DATA × DECISION SCIENCE</text>
+  <text x="56" y="145" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">QuantGuy</text>
+  <text x="58" y="193" fill="#dce6f2" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600">Investment Professional · Quantitative Finance · Data Science</text>
+  <text x="58" y="235" fill="#92a4bb" font-family="Arial, Helvetica, sans-serif" font-size="17">Models and analytical tools for pricing, valuation, risk, and better decisions.</text>
+  <circle cx="1120" cy="260" r="5" fill="#45dfbd"/>
+  <text x="1136" y="266" fill="#9bb1c4" font-family="monospace" font-size="14">BUILDING</text>
+</svg>
