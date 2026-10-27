@@ -24,8 +24,8 @@ class QuantGuy:
     role = "Investment professional & data scientist"
     focus = ["pricing", "valuation", "risk", "decision support","quant-trading","hedging"]
     tools = ["Python","C++","Rust", "SQL", "SAS", "Power BI", "Tableau"]
-    education = ["MS Financial Economics", "BS Economics"]  # Texas A&M University
-    credentials = ["CFA charterholder (2021)", "Google Data Analytics"]
+    education = ["MS Computer Science" ,"MS Financial Economics", "BS Economics"]  # Texas A&M University & Georgia Tech
+    credentials = ["CFA Charterholder"]
 ```
 
 I build quantitative models, data pipelines, and dashboards that help turn complex financial information into practical decisions. My work spans pricing and valuation models, alternative data, data quality, and analytics for business teams.
