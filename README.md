@@ -22,8 +22,8 @@
 ```python
 class QuantGuy:
     role = "Investment professional & data scientist"
-    focus = ["pricing", "valuation", "risk", "decision support"]
-    tools = ["Python", "R", "SQL", "SAS", "Power BI", "Tableau"]
+    focus = ["pricing", "valuation", "risk", "decision support","quant-trading","hedging"]
+    tools = ["Python","C++","Rust", "SQL", "SAS", "Power BI", "Tableau"]
     education = ["MS Financial Economics", "BS Economics"]  # Texas A&M University
     credentials = ["CFA charterholder (2021)", "Google Data Analytics"]
 ```
